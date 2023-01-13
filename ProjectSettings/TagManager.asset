@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - Weapon
+  - Notification
+  - Boss
+  - BossBullet
+  - InvisibleBlock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 2123338377
+    locked: 0
+  - name: tilemapBack
+    uniqueID: 326802833
+    locked: 0
+  - name: weapon
+    uniqueID: 1406355487
+    locked: 0
+  - name: tilemap
+    uniqueID: 3598971729
+    locked: 0
+  - name: enemy
+    uniqueID: 1611424503
+    locked: 0
+  - name: aura
+    uniqueID: 810329545
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 423899877
+    locked: 0
+  - name: onShield
+    uniqueID: 1563355823
+    locked: 0
